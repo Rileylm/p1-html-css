@@ -1,0 +1,30 @@
+.Block{
+justify-content: space-between;
+display: flex;
+flex-direction: row-reverse;
+
+}
+
+.Block1{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+}
+
+.Block2{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(0, 0, 0);
+}
+
+.Block3{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(255, 0, 0);
+}
+
+.Block4{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(25, 136, 10);
+}
